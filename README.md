@@ -27,6 +27,8 @@ optional arguments:
 
 I tested this using [QtSpim](http://spimsimulator.sourceforge.net/), a MIPS32 simulator.
 
+It does account for delay slots, so it _should_ run on real hardware, but never had the chance to test.
+
 # Samples
 I added some samples in [samples/](samples/).
 
